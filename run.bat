@@ -1,0 +1,3 @@
+javac GuessTheNumber.java
+java GuessTheNumber
+pause...
